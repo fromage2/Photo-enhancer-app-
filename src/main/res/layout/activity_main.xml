@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.android.zoom.MainActivity"
+    android:background="@color/light_green">
+
+    <!--<Button
+        android:id="@+id/btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:text="Selecciona una imagen"
+        android:textAppearance="?android:attr/textAppearanceLarge" /> -->
+
+    <TextView
+        android:id="@+id/txt_welcome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/dark_green"
+        android:textSize="25dp"
+        android:layout_above="@+id/btn_enhance"
+        android:text="Welcome to Photo Enhancer!"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="15dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/btn_gallery"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_gravity="center_horizontal"
+        android:text="Select photo"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+
+        />
+
+
+    <ImageView
+        android:id="@+id/iv"
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"/>
+
+
+    <Button
+        android:id="@+id/btn_enhance"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_gravity="center_horizontal"
+        android:text="Enhance Photo"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_marginTop="10dp"
+        />
+
+    <TextView
+        android:id="@+id/usage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btn_enhance"
+        android:text="USAGE"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_gravity="left"
+        android:textColor="@color/brown"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:id="@+id/instructions"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btn_enhance"
+        android:text="1) Select a photo from the gallery \n\n2) Press 'Enhance Photo' to see the result"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_gravity="left"
+        android:textColor="@color/light_brown"
+        android:textSize="15dp"/>
+
+
+</LinearLayout>

@@ -1,0 +1,112 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/fd6a2bc475302d6c6060c474ae4f2e53/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/81bc7405df9e11c9d9909582a2c030ff/AndroidManifest.xml:2:1-11:12
+MERGED from [org.tensorflow:tensorflow-android:1.13.1] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/38b9f642dfb2d56e2dc7dd88f8114a29/AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/b4567581cf63764d680bf2931e54b706/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/063a9a6ab894f5e77f743199f30a0e2b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/f9780b7e954d5e0c1d6d3fd68d36d951/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/33344b5b05a92d097e45e40d16e8d771/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/55e448ab37a3fae3b6b4ea7fb5a5fdde/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/c9a81cf6901f4259adbfee12512575aa/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/2659a07906eb51c545957e312e124241/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/64fabc6bf563baf8d849ed62f653289b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/9d0d57b8b6518df14de6242c01180ca0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/c222e650a44c03417f7cbecd9afacfb5/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml
+		INJECTED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml
+		ADDED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml
+		ADDED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/81bc7405df9e11c9d9909582a2c030ff/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/81bc7405df9e11c9d9909582a2c030ff/AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-android:1.13.1] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/38b9f642dfb2d56e2dc7dd88f8114a29/AndroidManifest.xml:5:5-6:19
+MERGED from [org.tensorflow:tensorflow-android:1.13.1] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/38b9f642dfb2d56e2dc7dd88f8114a29/AndroidManifest.xml:5:5-6:19
+	android:supportsRtl
+		ADDED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.android.zoom.MainActivity
+ADDED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml
+INJECTED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/fd6a2bc475302d6c6060c474ae4f2e53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/fd6a2bc475302d6c6060c474ae4f2e53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/81bc7405df9e11c9d9909582a2c030ff/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/81bc7405df9e11c9d9909582a2c030ff/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/b4567581cf63764d680bf2931e54b706/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/b4567581cf63764d680bf2931e54b706/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/063a9a6ab894f5e77f743199f30a0e2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/063a9a6ab894f5e77f743199f30a0e2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/f9780b7e954d5e0c1d6d3fd68d36d951/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/f9780b7e954d5e0c1d6d3fd68d36d951/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/33344b5b05a92d097e45e40d16e8d771/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/33344b5b05a92d097e45e40d16e8d771/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/55e448ab37a3fae3b6b4ea7fb5a5fdde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/55e448ab37a3fae3b6b4ea7fb5a5fdde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/c9a81cf6901f4259adbfee12512575aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/c9a81cf6901f4259adbfee12512575aa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/2659a07906eb51c545957e312e124241/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/2659a07906eb51c545957e312e124241/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/64fabc6bf563baf8d849ed62f653289b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/64fabc6bf563baf8d849ed62f653289b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/9d0d57b8b6518df14de6242c01180ca0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/9d0d57b8b6518df14de6242c01180ca0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/c222e650a44c03417f7cbecd9afacfb5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/uc3m1/.gradle/caches/transforms-2/files-2.1/c222e650a44c03417f7cbecd9afacfb5/AndroidManifest.xml:20:5-44
+INJECTED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml
+INJECTED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml
+		ADDED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml
+		INJECTED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml
+		ADDED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml
+		INJECTED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml:2:1-21:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml:2:1-21:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/uc3m1/Descargas/ImageEnhancement-App/app/src/main/AndroidManifest.xml:2:1-21:12 reason: tensorflow.contrib.android requested WRITE_EXTERNAL_STORAGE
